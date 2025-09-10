@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c814c2f-e22a-49c2-9b69-7c4939edf689" name="Changes" comment="created webserver">
+    <list default="true" id="5c814c2f-e22a-49c2-9b69-7c4939edf689" name="Changes" comment="modified web server to display values included in http request">
+      <change afterPath="$PROJECT_DIR$/something.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/server.py" afterDir="false" />
     </list>
@@ -17,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -45,6 +47,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.server.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -76,11 +79,31 @@
       <option name="project" value="LOCAL" />
       <updated>1757514963832</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="modified web server to display values included in http request">
+      <option name="closed" value="true" />
+      <created>1757516540278</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1757516540278</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created webserver" />
-    <option name="LAST_COMMIT_MESSAGE" value="created webserver" />
+    <MESSAGE value="modified web server to display values included in http request" />
+    <option name="LAST_COMMIT_MESSAGE" value="modified web server to display values included in http request" />
   </component>
 </project>
